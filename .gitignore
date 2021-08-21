@@ -136,3 +136,9 @@ dmypy.json
 
 # audio files
 **\.wav
+
+#exe files
+**\.exe
+
+#encoded files
+**\.ex2
